@@ -4,4 +4,4 @@ pip install PySide6
 
 verificando a instalação com "pip"
 
-após isso é só executar
+após isso é só executar dentro do arquivo "main.py"
