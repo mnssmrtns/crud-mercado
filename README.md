@@ -1,4 +1,4 @@
-Para executar use seu vscode e python com path na instalação e pelo terminal instale:
+Para executar use seu vscode e python com path na instalação, e pelo terminal instale:
 
 pip install PySide6
 
